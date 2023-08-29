@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyPhone</string>
+    <string name="phone_name">Samsung Galaxy</string>
+    <string name="phone_price">$599.99</string>
+    <string name="phone_desc">Version: SM-S901B, SM-S901B/OS (International); SM-S901U (USA);
+SM-S901U1 (USA unlocked); SM-S901W (Canada); SM-S901N (Korea); SM-S9010 (China); SM-S901E
+(Asia/Africa)</string>
+    <string name="memory">256GB</string>
+    <string name="camera">50MP, f/1.8 23mn(video)</string>
+    <string name="bookmark">bookmark</string>
+    <string name="PhoneNum">0821-1149-2113</string>
+</resources>
